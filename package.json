@@ -1,0 +1,11 @@
+{
+    "name": "com.mindfrog.lab-datacollector",
+    "displayName": "Lab-DataCollector",
+    "description": "Laboratory sensing equipment data transmission plugin for Unity",
+    "version": "1.0.0",
+    "unity":"2019.2",
+    "license": "MIT",
+    "dependencies": {
+        
+    }
+}
